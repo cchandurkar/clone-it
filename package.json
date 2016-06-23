@@ -1,0 +1,26 @@
+{
+  "name": "clone-it",
+  "version": "1.0.0",
+  "description": "Deep clone JavaScript Arrays, Objects, Functions, Instances, Dates, Regular Expressions and Primitives. Takes care of circular dependancy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cchandurkar/clone-it.git"
+  },
+  "keywords": [
+    "clone",
+    "deep-clone",
+    "duplicate",
+    "twin",
+    "es5"
+  ],
+  "author": "Chaitanya Chandurkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cchandurkar/clone-it/issues"
+  },
+  "homepage": "https://github.com/cchandurkar/clone-it#readme"
+}
