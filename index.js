@@ -114,7 +114,7 @@
   if (typeof module !== 'undefined' && typeof module.exports !== 'undefined') {
     module.exports = clone;
   } else {
-    if(typeof clone === 'function' && define.amd){
+    if(typeof define === 'function' && define.amd){
       define([], function() {
         return clone;
       });
